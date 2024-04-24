@@ -37,7 +37,6 @@ const Reservation = () => {
       navigate("/success");
     } catch (error) {
       toast.error(error.response.data.message);
-      // toast.error(error);
     }
   };
 
@@ -45,7 +44,7 @@ const Reservation = () => {
     <section className="reservation" id="reservation">
       <div className="container">
         <div className="banner">
-          <img src="/reservation.png" alt="res" />
+          <img src="/reservation.jpg" alt="res" style={{borderRadius:"20px"}}/>
         </div>
         <div className="banner">
           <div className="reservation_form_box">

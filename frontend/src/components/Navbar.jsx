@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <>
       <nav>
-        <div className="logo">TandooriRush</div>
+        <div className="logo">AQUAWORLD</div>
         <div className={show ? "navLinks showmenu" : "navLinks"}>
           <div className="links">
             {data[0].navbarLinks.map((element) => (
@@ -20,9 +20,9 @@ const Navbar = () => {
               >
                 {element.title}
               </Link>
-            ))}
+            ))} 
           </div>
-          <button className="menuBtn">OUR MENU</button>
+          <button className="menuBtn">Explore</button>
         </div>
         <div className="hamburger" onClick={()=> setShow(!show)}>
                 <GiHamburgerMenu/>

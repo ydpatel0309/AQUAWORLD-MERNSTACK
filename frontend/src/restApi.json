@@ -10,15 +10,15 @@
         },
         {
           "id": 2,
-          "image": "./super_taste.svg",
-          "title": "SUPER TASTE",
-          "description": "our commitment to quality shines through in every dish. We meticulously select the freshest ingredients and expertly prepare each meal to perfection, delivering a dining experience that is truly unforgettable"
+          "image": "./water.jpg",
+          "title": "SUPER RIDES",
+          "description": "Experience exhilarating thrills and unbeatable safety with our quality rides. From towering slides to relaxing lazy rivers, every ride at AQUAWORLD promises unforgettable fun for all ages"
         },
         {
           "id": 3,
           "image": "./fast_delivery.svg",
-          "title": "FAST DELIVERY",
-          "description": "we prioritize efficiency without compromising on quality. Our streamlined processes ensure that your food is delivered promptly while still maintaining the delicious flavors and freshness you expect from us."
+          "title": "CONNECTIVITY",
+          "description": "Stay connected in every way possible at AQUAWORLD. Share your adventures, stay updated, and connect with loved ones while enjoying our aquatic paradise."
         }
       ],
       "dishes": [
@@ -76,13 +76,13 @@
           "id": 1,
           "image": "./avtar.png",
           "name": "YASH PATEL",
-          "designation": "Founder & Head Chef"
+          "designation": "Founder"
         },
         {
           "id": 2,
           "image": "./avtar2.png",
           "name": "RUSHIK PATEL",
-          "designation": "Sous Chef"
+          "designation": "cleaner"
         },
         {
           "id": 3,
@@ -94,7 +94,7 @@
           "id": 4,
           "image": "./avtar4.png",
           "name": "ABHISHEK RATHORE",
-          "designation": "Senior Chef"
+          "designation": "trainer"
         }
       ],
       "testimonials": [
@@ -165,7 +165,7 @@
         },
         {
           "id": 5,
-          "title": "RESERVATION",
+          "title": "BOOKING",
           "link": "reservation"
         }
       ]
