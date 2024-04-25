@@ -23,7 +23,7 @@ const About = () => {
               relaxation, our park offers something for everyone
             </p>
             <Link to={"/"}>
-              Explore Menu{" "}
+              Explore Rides{" "}
               <span>
                 <HiOutlineArrowRight />
               </span>
